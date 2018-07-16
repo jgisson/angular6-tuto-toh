@@ -1,4 +1,6 @@
-# Angular6TutoToh
+# Angular 6 tutorial: Tour of Heroes
+
+see https://angular.io/tutorial for more informations
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
